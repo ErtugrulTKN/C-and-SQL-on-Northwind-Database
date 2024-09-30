@@ -1,0 +1,10 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\obj\Debug\SQLDataAdapter.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\obj\Debug\SQLDataAdapter.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\obj\Debug\SQLDataAdapter.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\obj\Debug\SQLDataAdapter.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\obj\Debug\SQLDataAdapter.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\bin\Debug\SQLDataAdapter.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\bin\Debug\SQLDataAdapter.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\bin\Debug\SQLDataAdapter.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\obj\Debug\SQLDataAdapter.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLDataAdapter\obj\Debug\SQLDataAdapter.pdb
