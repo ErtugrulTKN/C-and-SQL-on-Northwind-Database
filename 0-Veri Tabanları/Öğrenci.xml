@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Mustafa İlhan</Author>
+  <LastAuthor>Mustafa İlhan</LastAuthor>
+  <Created>2023-12-11T13:03:54Z</Created>
+  <LastSaved>2023-12-13T20:11:06Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12450</WindowHeight>
+  <WindowWidth>23250</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="162" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Öğrenciler">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="117"/>
+   <Column ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Row>
+    <Cell><Data ss:Type="String">Numara</Data></Cell>
+    <Cell><Data ss:Type="String">Adsoyad</Data></Cell>
+    <Cell><Data ss:Type="String">Bölüm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">001</Data></Cell>
+    <Cell><Data ss:Type="String">Ahmet Yıldırım</Data></Cell>
+    <Cell><Data ss:Type="String">Bilgisayar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">002</Data></Cell>
+    <Cell><Data ss:Type="String">Serkan Öztürk</Data></Cell>
+    <Cell><Data ss:Type="String">Radyo Tv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">003</Data></Cell>
+    <Cell><Data ss:Type="String">Elif Aydın</Data></Cell>
+    <Cell><Data ss:Type="String">Bilgisayar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">004</Data></Cell>
+    <Cell><Data ss:Type="String">Merve Özdemir</Data></Cell>
+    <Cell><Data ss:Type="String">Elektronik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">005</Data></Cell>
+    <Cell><Data ss:Type="String">Mehmet Arslan</Data></Cell>
+    <Cell><Data ss:Type="String">Bilgisayar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">006</Data></Cell>
+    <Cell><Data ss:Type="String">Hakan Doğan</Data></Cell>
+    <Cell><Data ss:Type="String">Elektronik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">007</Data></Cell>
+    <Cell><Data ss:Type="String">Yağmur Kılıç</Data></Cell>
+    <Cell><Data ss:Type="String">Radyo Tv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">008</Data></Cell>
+    <Cell><Data ss:Type="String">Nehir Güneş</Data></Cell>
+    <Cell><Data ss:Type="String">Bilgisayar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">009</Data></Cell>
+    <Cell><Data ss:Type="String">Ali Çetin</Data></Cell>
+    <Cell><Data ss:Type="String">Elektronik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">010</Data></Cell>
+    <Cell><Data ss:Type="String">Ersin Kara</Data></Cell>
+    <Cell><Data ss:Type="String">Radyo Tv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">011</Data></Cell>
+    <Cell><Data ss:Type="String">Seda Koç</Data></Cell>
+    <Cell><Data ss:Type="String">Elektronik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">012</Data></Cell>
+    <Cell><Data ss:Type="String">Eylül Kurt</Data></Cell>
+    <Cell><Data ss:Type="String">Bilgisayar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">013</Data></Cell>
+    <Cell><Data ss:Type="String">Murat Özkan</Data></Cell>
+    <Cell><Data ss:Type="String">Radyo Tv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">014</Data></Cell>
+    <Cell><Data ss:Type="String">Fatih Şimşek</Data></Cell>
+    <Cell><Data ss:Type="String">Elektronik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">015</Data></Cell>
+    <Cell><Data ss:Type="String">Özlem Yıldız</Data></Cell>
+    <Cell><Data ss:Type="String">Bilgisayar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">016</Data></Cell>
+    <Cell><Data ss:Type="String">Fatma Çakır</Data></Cell>
+    <Cell><Data ss:Type="String">Elektronik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">017</Data></Cell>
+    <Cell><Data ss:Type="String">Serdar Mutlu</Data></Cell>
+    <Cell><Data ss:Type="String">Bilgisayar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">018</Data></Cell>
+    <Cell><Data ss:Type="String">Umut Akdeniz</Data></Cell>
+    <Cell><Data ss:Type="String">Radyo Tv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">019</Data></Cell>
+    <Cell><Data ss:Type="String">Begüm Özçelik</Data></Cell>
+    <Cell><Data ss:Type="String">Elektronik</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:Ticked="1">020</Data></Cell>
+    <Cell><Data ss:Type="String">Sinem Coşkun</Data></Cell>
+    <Cell><Data ss:Type="String">Bilgisayar</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

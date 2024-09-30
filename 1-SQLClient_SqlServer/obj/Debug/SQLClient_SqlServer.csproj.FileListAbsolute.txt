@@ -1,0 +1,30 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\3-Veri Tabanı\SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.pdb
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.exe.config
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.exe
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.pdb
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.AssemblyReference.cache
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.Form1.resources
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.Properties.Resources.resources
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.GenerateResource.cache
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.CoreCompileInputs.cache
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.exe
+F:\3-Veri Tabanı\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.pdb
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.exe.config
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.exe
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\bin\Debug\SQLClient_SqlServer.pdb
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.AssemblyReference.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.Form1.resources
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.Properties.Resources.resources
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.GenerateResource.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.csproj.CoreCompileInputs.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.exe
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 1 (2023)\Veri Tabanı Örnekleri\1-SQLClient_SqlServer\obj\Debug\SQLClient_SqlServer.pdb

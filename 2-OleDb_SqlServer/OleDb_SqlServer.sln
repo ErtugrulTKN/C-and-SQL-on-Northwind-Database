@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OleDb_SqlServer", "OleDb_SqlServer.csproj", "{90EC34CF-E16E-48D2-8950-1EA9C4F955DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EC34CF-E16E-48D2-8950-1EA9C4F955DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EC34CF-E16E-48D2-8950-1EA9C4F955DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EC34CF-E16E-48D2-8950-1EA9C4F955DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EC34CF-E16E-48D2-8950-1EA9C4F955DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54215253-7678-4C0E-AF9D-D8DC07A814B4}
+	EndGlobalSection
+EndGlobal
