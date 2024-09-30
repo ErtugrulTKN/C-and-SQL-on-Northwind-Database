@@ -1,0 +1,43 @@
+using System.Data.SqlClient;
+using System.Data.OleDb;
+using System.MySql.MySqlClient;
+-----------------------------------------
+static string kaynak = "server=(local); database=öğrenci; uid=sa; pwd=123";
+static string kaynak = "server=(local); database=öğrenci; integrated security=true";
+
+static string kaynak = "Provider=sqloledb;Data Source = (local); Initial Catalog = Öğrenci; User Id = sa; Password=123";
+
+static string kaynak = "provider=microsoft.ace.oledb.12.0; data source=d:\\öğrenci.accdb";
+static string kaynak = "provider=microsoft.jet.oledb.4.0; data source=d:\\öğrenci.mdb";
+        
+--------------------------------------------------------------------------------
+string sorgu = "select * from Öğrenciler where Numara=@no";
+komut.Parameters.AddWithValue("@no", textBox1.Text);
+
+ya da
+
+string sorgu =  string.Format(  "select * from Öğrenciler where Numara='{0}'", textBox1.Text );
+
+---------------------------------------------------------------------------------
+SqlConnection bağlanti = new SqlConnection(kaynak);
+OleDbConnection
+MySqlConnection
+
+SqlCommand komut = new SqlCommand(sorguKayıt, baglanti);
+OleDbCommand
+MySqlCommand
+
+SqlDataReader veri;
+OleDbDataReader
+MySqlDataReader
+
+--------------------------------------
+baglanti.Open();
+    komut.ExecuteNonQuery();                  // create, insert, delete, update
+baglanti.Close();
+
+baglanti.Open();
+    veri = komut.ExecuteReader();             // select
+    veri.Read();
+baglanti.Close();
+
